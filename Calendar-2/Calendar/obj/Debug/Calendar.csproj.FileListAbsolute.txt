@@ -1,0 +1,64 @@
+c:\users\edyta\documents\visual studio 2015\Projects\Calendar\Calendar\bin\Debug\Calendar.exe.config
+C:\Users\Edyta\documents\visual studio 2015\Projects\Calendar\Calendar\bin\Debug\Calendar.exe
+C:\Users\Edyta\documents\visual studio 2015\Projects\Calendar\Calendar\bin\Debug\Calendar.pdb
+C:\Users\Edyta\documents\visual studio 2015\Projects\Calendar\Calendar\obj\Debug\Calendar.csprojResolveAssemblyReference.cache
+C:\Users\Edyta\documents\visual studio 2015\Projects\Calendar\Calendar\obj\Debug\AddWindow.g.cs
+C:\Users\Edyta\documents\visual studio 2015\Projects\Calendar\Calendar\obj\Debug\MainWindow.g.cs
+C:\Users\Edyta\documents\visual studio 2015\Projects\Calendar\Calendar\obj\Debug\App.g.cs
+C:\Users\Edyta\documents\visual studio 2015\Projects\Calendar\Calendar\obj\Debug\Calendar_MarkupCompile.cache
+C:\Users\Edyta\documents\visual studio 2015\Projects\Calendar\Calendar\obj\Debug\Calendar_MarkupCompile.lref
+C:\Users\Edyta\documents\visual studio 2015\Projects\Calendar\Calendar\obj\Debug\AddWindow.baml
+C:\Users\Edyta\documents\visual studio 2015\Projects\Calendar\Calendar\obj\Debug\MainWindow.baml
+C:\Users\Edyta\documents\visual studio 2015\Projects\Calendar\Calendar\obj\Debug\Calendar.g.resources
+C:\Users\Edyta\documents\visual studio 2015\Projects\Calendar\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\Edyta\documents\visual studio 2015\Projects\Calendar\Calendar\obj\Debug\Calendar.csproj.GenerateResource.Cache
+C:\Users\Edyta\documents\visual studio 2015\Projects\Calendar\Calendar\obj\Debug\Calendar.exe
+C:\Users\Edyta\documents\visual studio 2015\Projects\Calendar\Calendar\obj\Debug\Calendar.pdb
+C:\Users\nullptr\Desktop\Calendar\Calendar\obj\Debug\Calendar.csprojResolveAssemblyReference.cache
+C:\Users\nullptr\Desktop\Calendar\Calendar\obj\Debug\AddWindow.g.cs
+C:\Users\nullptr\Desktop\Calendar\Calendar\obj\Debug\MainWindow.g.cs
+C:\Users\nullptr\Desktop\Calendar\Calendar\obj\Debug\App.g.cs
+C:\Users\nullptr\Desktop\Calendar\Calendar\obj\Debug\Calendar_MarkupCompile.cache
+C:\Users\nullptr\Desktop\Calendar\Calendar\obj\Debug\Calendar_MarkupCompile.lref
+C:\Users\nullptr\Desktop\Calendar\Calendar\obj\Debug\Calendar.exe
+C:\Users\nullptr\Desktop\Calendar\Calendar\obj\Debug\Calendar.pdb
+C:\Users\nullptr\Desktop\Calendar\Calendar\bin\Debug\Calendar.exe.config
+C:\Users\nullptr\Desktop\Calendar\Calendar\bin\Debug\Calendar.exe
+C:\Users\nullptr\Desktop\Calendar\Calendar\bin\Debug\Calendar.pdb
+C:\Users\nullptr\Desktop\Calendar\Calendar\obj\Debug\AddWindow.baml
+C:\Users\nullptr\Desktop\Calendar\Calendar\obj\Debug\MainWindow.baml
+C:\Users\nullptr\Desktop\Calendar\Calendar\obj\Debug\Calendar.g.resources
+C:\Users\nullptr\Desktop\Calendar\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\nullptr\Desktop\Calendar\Calendar\obj\Debug\Calendar.csproj.GenerateResource.Cache
+C:\Users\Edyta\Documents\Visual Studio 2015\Projects\Calendar-2\Calendar\bin\Debug\Calendar.exe.config
+C:\Users\Edyta\Documents\Visual Studio 2015\Projects\Calendar-2\Calendar\obj\Debug\Calendar.exe
+C:\Users\Edyta\Documents\Visual Studio 2015\Projects\Calendar-2\Calendar\obj\Debug\Calendar.pdb
+C:\Users\Edyta\Documents\Visual Studio 2015\Projects\Calendar-2\Calendar\obj\Debug\Calendar.csprojResolveAssemblyReference.cache
+C:\Users\Edyta\Documents\Visual Studio 2015\Projects\Calendar-2\Calendar\obj\Debug\AddWindow.g.cs
+C:\Users\Edyta\Documents\Visual Studio 2015\Projects\Calendar-2\Calendar\obj\Debug\MainWindow.g.cs
+C:\Users\Edyta\Documents\Visual Studio 2015\Projects\Calendar-2\Calendar\obj\Debug\App.g.cs
+C:\Users\Edyta\Documents\Visual Studio 2015\Projects\Calendar-2\Calendar\obj\Debug\Calendar_MarkupCompile.cache
+C:\Users\Edyta\Documents\Visual Studio 2015\Projects\Calendar-2\Calendar\obj\Debug\Calendar_MarkupCompile.lref
+C:\Users\Edyta\Documents\Visual Studio 2015\Projects\Calendar-2\Calendar\bin\Debug\Calendar.exe
+C:\Users\Edyta\Documents\Visual Studio 2015\Projects\Calendar-2\Calendar\bin\Debug\Calendar.pdb
+C:\Users\Edyta\Documents\Visual Studio 2015\Projects\Calendar-2\Calendar\obj\Debug\AddWindow.baml
+C:\Users\Edyta\Documents\Visual Studio 2015\Projects\Calendar-2\Calendar\obj\Debug\MainWindow.baml
+C:\Users\Edyta\Documents\Visual Studio 2015\Projects\Calendar-2\Calendar\obj\Debug\Calendar.g.resources
+C:\Users\Edyta\Documents\Visual Studio 2015\Projects\Calendar-2\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\Edyta\Documents\Visual Studio 2015\Projects\Calendar-2\Calendar\obj\Debug\Calendar.csproj.GenerateResource.Cache
+C:\Users\Edyta\Documents\Calendar\Calendar-2\Calendar\bin\Debug\Calendar.exe.config
+C:\Users\Edyta\Documents\Calendar\Calendar-2\Calendar\bin\Debug\Calendar.exe
+C:\Users\Edyta\Documents\Calendar\Calendar-2\Calendar\bin\Debug\Calendar.pdb
+C:\Users\Edyta\Documents\Calendar\Calendar-2\Calendar\obj\Debug\Calendar.csprojResolveAssemblyReference.cache
+C:\Users\Edyta\Documents\Calendar\Calendar-2\Calendar\obj\Debug\AddWindow.g.cs
+C:\Users\Edyta\Documents\Calendar\Calendar-2\Calendar\obj\Debug\MainWindow.g.cs
+C:\Users\Edyta\Documents\Calendar\Calendar-2\Calendar\obj\Debug\App.g.cs
+C:\Users\Edyta\Documents\Calendar\Calendar-2\Calendar\obj\Debug\Calendar_MarkupCompile.cache
+C:\Users\Edyta\Documents\Calendar\Calendar-2\Calendar\obj\Debug\Calendar_MarkupCompile.lref
+C:\Users\Edyta\Documents\Calendar\Calendar-2\Calendar\obj\Debug\AddWindow.baml
+C:\Users\Edyta\Documents\Calendar\Calendar-2\Calendar\obj\Debug\MainWindow.baml
+C:\Users\Edyta\Documents\Calendar\Calendar-2\Calendar\obj\Debug\Calendar.g.resources
+C:\Users\Edyta\Documents\Calendar\Calendar-2\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\Edyta\Documents\Calendar\Calendar-2\Calendar\obj\Debug\Calendar.csproj.GenerateResource.Cache
+C:\Users\Edyta\Documents\Calendar\Calendar-2\Calendar\obj\Debug\Calendar.exe
+C:\Users\Edyta\Documents\Calendar\Calendar-2\Calendar\obj\Debug\Calendar.pdb
