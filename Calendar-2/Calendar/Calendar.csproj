@@ -57,7 +57,6 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="FileReader.cs" />
-    <Compile Include="MyException.cs" />
     <Compile Include="Pair.cs" />
     <Compile Include="TimePeriodEnum.cs" />
     <Page Include="AddWindow.xaml">
@@ -84,7 +83,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Message.cs" />
     <Compile Include="NormalEvent.cs" />
     <Compile Include="PeriodicEvent.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">

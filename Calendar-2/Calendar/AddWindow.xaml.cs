@@ -60,16 +60,6 @@ namespace Calendar
                 beginDateParsed = false;
             }
 
-            //if (!Int32.TryParse(startDayTextBox.Text, out day))
-            //{
-            //    startDayTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 0, 0));
-            //    beginDateParsed = false;
-            //}
-            //else
-            //{
-            //    startDayTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 255, 255));
-            //}
-
             try // Trying to parse string in textbox to month variable
             {
                 int value = Int32.Parse(startMonthTextBox.Text);
@@ -81,16 +71,6 @@ namespace Calendar
                 beginDateParsed = false;
             }
 
-            //if (!Int32.TryParse(startMonthTextBox.Text, out month))
-            //{
-            //    startMonthTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 0, 0));
-            //    beginDateParsed = false;
-            //}
-            //else
-            //{
-            //    startMonthTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 255, 255));
-            //}
-
             try // Trying to parse string in textbox to year variable
             {
                 int value = Int32.Parse(startYearTextBox.Text);
@@ -101,16 +81,6 @@ namespace Calendar
                 startYearTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 0, 0));
                 beginDateParsed = false;
             }
-
-            //if (!Int32.TryParse(startYearTextBox.Text, out year))
-            //{
-            //    startYearTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 0, 0));
-            //    beginDateParsed = false;
-            //}
-            //else
-            //{
-            //    startYearTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 255, 255));
-            //}
 
             if (beginDateParsed)
             {
@@ -127,18 +97,8 @@ namespace Calendar
                     catch (Exception ex) // In case of failure textbox changes it's color to red
                     {
                         endDayTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 0, 0));
-                        beginDateParsed = false;
+                        endDateParsed = false;
                     }
-
-                    //if (!Int32.TryParse(endDayTextBox.Text, out endDay))
-                    //{
-                    //    endDayTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 0, 0));
-                    //    endDateParsed = false;
-                    //}
-                    //else
-                    //{
-                    //    endDayTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 255, 255));
-                    //}
 
                     try // Trying to parse string in textbox to endMonth variable
                     {
@@ -148,18 +108,8 @@ namespace Calendar
                     catch (Exception ex) // In case of failure textbox changes it's color to red
                     {
                         endMonthTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 0, 0));
-                        beginDateParsed = false;
+                        endDateParsed = false;
                     }
-
-                    //if (!Int32.TryParse(endMonthTextBox.Text, out endMonth))
-                    //{
-                    //    endMonthTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 0, 0));
-                    //    endDateParsed = false;
-                    //}
-                    //else
-                    //{
-                    //    endMonthTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 255, 255));
-                    //}
 
                     try // Trying to parse string in textbox to endYear variable
                     {
@@ -169,18 +119,8 @@ namespace Calendar
                     catch (Exception ex) // In case of failure textbox changes it's color to red
                     {
                         endYearTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 0, 0));
-                        beginDateParsed = false;
+                        endDateParsed = false;
                     }
-
-                    //if (!Int32.TryParse(endYearTextBox.Text, out endYear))
-                    //{
-                    //    endYearTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 0, 0));
-                    //    endDateParsed = false;
-                    //}
-                    //else
-                    //{
-                    //    endYearTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 255, 255));
-                    //}
 
                     if (endDateParsed)
                     {
@@ -204,18 +144,8 @@ namespace Calendar
                     catch (Exception ex) // In case of failure textbox changes it's color to red
                     {
                         endDayTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 0, 0));
-                        beginDateParsed = false;
+                        endDateParsed = false;
                     }
-
-                    //if (!Int32.TryParse(endDayTextBox.Text, out endDay))
-                    //{
-                    //    endDayTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 0, 0));
-                    //    endDateParsed = false;
-                    //}
-                    //else
-                    //{
-                    //    endDayTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 255, 255));
-                    //}
 
                     try // Trying to parse string in textbox to endMonth variable
                     {
@@ -225,18 +155,8 @@ namespace Calendar
                     catch (Exception ex) // In case of failure textbox changes it's color to red
                     {
                         endMonthTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 0, 0));
-                        beginDateParsed = false;
+                        endDateParsed = false;
                     }
-
-                    //if (!Int32.TryParse(endMonthTextBox.Text, out endMonth))
-                    //{
-                    //    endMonthTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 0, 0));
-                    //    endDateParsed = false;
-                    //}
-                    //else
-                    //{
-                    //    endMonthTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 255, 255));
-                    //}
 
                     try // Trying to parse string in textbox to endYear variable
                     {
@@ -246,18 +166,8 @@ namespace Calendar
                     catch (Exception ex) // In case of failure textbox changes it's color to red
                     {
                         endYearTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 0, 0));
-                        beginDateParsed = false;
+                        endDateParsed = false;
                     }
-
-                    //if (!Int32.TryParse(endYearTextBox.Text, out endYear))
-                    //{
-                    //    endYearTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 0, 0));
-                    //    endDateParsed = false;
-                    //}
-                    //else
-                    //{
-                    //    endYearTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 255, 255));
-                    //}
 
                     if (endDateParsed)
                     {
@@ -265,7 +175,7 @@ namespace Calendar
                         TimeSpan frequency = (periodList.SelectedItem as TimePeriodEnum).TimeValue;
                         Event ev = new PeriodicEvent(startDate, information, priority, endDate, frequency);
                         collection.Add(ev);
-                        this.Close(); ;
+                        this.Close();
                     }
                     else // When failed to parse end date MessageBox is shown
                     {

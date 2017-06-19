@@ -23,7 +23,6 @@ namespace Calendar
     {
         private Timer statusTime;
         public ICollection<Event> eventCollection = new List<Event>(); // Stores all events
-        //public ICollection<Event> currentEventCollection = new List<Event>(); //Stores 
 
         public MainWindow()
         {
@@ -115,14 +114,6 @@ namespace Calendar
         {
             todayListView.ItemsSource = eventCollection.Where(x => EventManager.Manager.checkIfToday(x)).ToList();
         }
-
-
-
-        //private void TabItemMonthly_GotFocus(object sender, RoutedEventArgs e)
-        //{
-        //    //monthlyListView.ItemsSource = eventCollection.Where(x => EventManager.Manager.checkIfMonthly(x)).ToList();
-        //    //this.calendar.SelectedDates.Add(DateTime.Now);
-        //}
 
         /* List all priority Events when priority tab is clicked */
 
